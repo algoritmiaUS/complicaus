@@ -63,6 +63,19 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
 11. [¿Dónde Está Wally? (Missing Number, CSES 1083)](https://vjudge.net/problem/CSES-1083)
 12. [Cuando Codeforces se pone romántico (Pashmak and Flowers, CodeForces 459B)](https://vjudge.net/problem/CodeForces-459B)
 
+### [CompliCAUS V](https://complicaus.eii.us.es/public)
+1. [Dos Hermanas (Delft Distance - NWERC 2022 D)](https://open.kattis.com/problems/delftdistance)
+2. [La Guerra de Píxeles (Identifying Map Tiles - NWERC 2015 I)](https://open.kattis.com/contests/nwerc15open/problems/maptiles2)
+3. [Lema Técnico (Rats - SWERC 2019 I)](https://codeforces.com/gym/102501/problem/I)
+4. [El optimizador de saqueo de los goblins (The SetStack Computer - NWERC 2006 B)](https://open.kattis.com/problems/setstack)
+5. [Operación Annunakis (Biodiversity - SWERC 2019 B)](https://codeforces.com/gym/102501/problem/B)
+6. [Crucigrama sevillano (Crosswords - SWERC 2018 C)](https://codeforces.com/gym/102465/problem/C)
+7. Saber y Ganar (autor: Juan Antonio Álvarez García y editado por Pablo Reina Jiménez)
+8. [Pie (Pie - NWERC 2006 C)](https://open.kattis.com/problems/pie)
+9. [El protocolo del Alcázar (Alphabetical Aristocrats - NWERC 2024 A)](https://codeforces.com/gym/105562/problem/A)
+10. [Problemas de comunicación (Jumbled Communication - NWERC 2015 J)](https://open.kattis.com/contests/nwerc15open/problems/communication)
+11. El archivo de indias (autor: Pablo Reina Jiménez)
+12. [Pautas de seguridad (Assigning Workstations - NWERC 2015 A)](https://open.kattis.com/contests/nwerc15open/problems/workstations)
 
 ## FAQ
 
@@ -77,13 +90,6 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
 
   ¡Por supuesto!
 </details>
-
-<!-- <details>
-  <summary></summary>
-
-  
-</details> -->
-
 
 ## Cómo añadir tus soluciones
 
